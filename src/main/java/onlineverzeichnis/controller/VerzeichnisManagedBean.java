@@ -19,4 +19,5 @@ public class VerzeichnisManagedBean {
 		return welcomeText;
 	}
 
+	private String test ="Hello Africa";
 }
